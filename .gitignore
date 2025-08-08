@@ -1,0 +1,12 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+# IDE
+.vs/
+.idea/
+.vscode/
+# OS junk
+.DS_Store
+Thumbs.db
